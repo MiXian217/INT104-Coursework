@@ -1,4 +1,4 @@
-# Student Programme Classification using Machine Learning
+# Student Programme Classification using ML
 
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Scikit--learn%2C%20Pandas%2C%20Matplotlib-orange.svg)
