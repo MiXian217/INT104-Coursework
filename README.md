@@ -1,9 +1,9 @@
-# INT104 Artificial Intelligence: Data Analysis & Machine Learning
+# Student Programme Classification using Machine Learning
 
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Scikit--learn%2C%20Pandas%2C%20Matplotlib-orange.svg)
 
-This repository documents the comprehensive coursework for the INT104 Artificial Intelligence module. The project is a multi-stage exploration of a student performance dataset, covering data preprocessing, feature engineering, supervised classification, and unsupervised clustering. All analyses and visualizations were performed using Python and its data science ecosystem.
+This repository documents a comprehensive, multi-stage data science project exploring a student performance dataset. The project covers data preprocessing, feature engineering, supervised classification, and unsupervised clustering, with the primary goal of classifying students into their respective academic programmes. All analyses and visualizations were performed using Python and its data science ecosystem.
 
 The project is structured into three main parts, corresponding to the three courseworks.
 
